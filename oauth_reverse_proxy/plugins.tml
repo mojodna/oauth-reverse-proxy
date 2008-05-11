@@ -1,0 +1,3 @@
+register('reverse_proxy', 'oauth_reverse_proxy.tap',
+ description='OAuth reverse HTTP proxy tap',
+ type='tap', tapname='oauth_reverse_proxy')

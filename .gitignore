@@ -1,0 +1,4 @@
+*.tap
+*.pyc
+dropin.cache
+twistd.*
